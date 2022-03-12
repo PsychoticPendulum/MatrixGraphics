@@ -30,7 +30,7 @@ import os
 
 class Module:
 	running = True
-	count = 180
+	count = 256
 	pin = 18
 	mode = 0
 	speed = 50 
